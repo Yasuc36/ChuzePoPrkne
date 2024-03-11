@@ -14,7 +14,7 @@ Její celkové hodnocení je **A**.
 
 ## Ukázka aplikace formou videa
 
-[![Watch the video](https://img.youtube.com/vi/NuVzvm8uwUs/hqdefault.jpg)](https://www.youtube.com/embed/NuVzvm8uwUs)
+[![Ukazka](https://img.youtube.com/vi/NuVzvm8uwUs/hqdefault.jpg)](https://www.youtube.com/embed/NuVzvm8uwUs)
 
 ## Obsah adresáře
 * [Application_build](./Application_build/): obsahuje spustitelnou .exe aplikaci
